@@ -1,5 +1,5 @@
 torch
 fairscale
 fire
-tiktoken==0.4.0
+tiktoken==0.9.0
 blobfile
